@@ -17,8 +17,7 @@ Here are some ideas to get you started:
 
 📚 Majored in Architectural Engineering<br>
 🎯 Currently learning `Web`, `Algorithm`<br>
-💡 Currently interested in `Algorithm`, `Data Structure`, `Based on CAD` <br>
-    (CAD : Computer Aided Design)<br>
+💡 Currently interested in `Algorithm`, `Data Structure`, `Based on CAD(Computer Aided Design)`<br>
     
     
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=y0ungdev&theme=vue&show_icons=true)
