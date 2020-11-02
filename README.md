@@ -1,4 +1,4 @@
-### Hi there 👋
+### √0
 
 <!--
 **y0ungdev/y0ungdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+📚 Majored in Architectural Engineering
+🎯 Currently learning `Web`, `Algorithm`
+💡 Currently interested in `Algorithm`, `Data Structure`, `Based on CAD` 
+    (CAD : Computer Aided Design)
+    
+    
+  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=y0ungdev)](https://github.com/y0ungdev/github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=synthwave)
