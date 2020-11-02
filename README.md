@@ -21,4 +21,4 @@ Here are some ideas to get you started:
     (CAD : Computer Aided Design)<br>
     
     
-  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=y0ungdev)](https://github.com/y0ungdev/github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=vue)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=y0ungdev&theme=vue&show_icons=true)
