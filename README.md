@@ -15,10 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-📚 Majored in Architectural Engineering
-🎯 Currently learning `Web`, `Algorithm`
-💡 Currently interested in `Algorithm`, `Data Structure`, `Based on CAD` 
-    (CAD : Computer Aided Design)
+📚 Majored in Architectural Engineering<br>
+🎯 Currently learning `Web`, `Algorithm`<br>
+💡 Currently interested in `Algorithm`, `Data Structure`, `Based on CAD` <br>
+    (CAD : Computer Aided Design)<br>
     
     
-  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=y0ungdev)](https://github.com/y0ungdev/github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=synthwave)
+  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=y0ungdev)](https://github.com/y0ungdev/github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=vue)
