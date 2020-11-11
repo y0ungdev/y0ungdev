@@ -21,5 +21,5 @@ Here are some ideas to get you started:
 📐 Also interested in planning some <u>architectural IT service</u>
     
     
-<center>![y0ungdev's github stats](https://github-readme-stats.vercel.app/api?username=y0ungdev&theme=vue&show_icons=true)</center>
+![y0ungdev's github stats]<center>(https://github-readme-stats.vercel.app/api?username=y0ungdev&theme=vue&show_icons=true)</center>
 
