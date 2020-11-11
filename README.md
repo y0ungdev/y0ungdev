@@ -20,5 +20,5 @@ Here are some ideas to get you started:
 💡 Currently interested in `Algorithm`, `Data Structure`, `Based on CAD(Computer Aided Design)`<br>
 📐 Also interested in planning some <u>architectural IT service</u>
     
-[![young's github stats](https://github-readme-stats.vercel.app/api?username=y0ungdev)](https://github.com/y0ungdev/github-readme-stats)
+[![young's github stats](https://github-readme-stats.vercel.app/api?username=y0ungdev&theme=tokyonight&show_icons=true)](https://github.com/y0ungdev/github-readme-stats)
 
